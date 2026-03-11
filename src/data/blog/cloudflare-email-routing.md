@@ -3,7 +3,7 @@ title: Using Cloudflare email routing to create a public email address
 author: Jackson Hughes
 pubDatetime: 2026-03-03T00:20:00Z
 slug: cloudflare-email-routing
-featured: true
+featured: false
 draft: false
 tags:
   - cloudflare
